@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <StartupObject>ConsoleAppKai.Himekuri</StartupObject>
+    <Authors>Takayuki Kamiyama</Authors>
+    <Company>SOHO</Company>
+    <Description>ConsoleAppKai is ConsoleG improved.</Description>
+  </PropertyGroup>
+
+</Project>
