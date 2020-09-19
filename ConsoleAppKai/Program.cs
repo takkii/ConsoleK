@@ -52,9 +52,9 @@ namespace ConsoleAppKai
                 try
                 {
                     // 宣言
-                    const string RivisionNumber = "1.0.2R1";
+                    const string rivisionNumber = "1.0.2R1";
                     const string himekuriSharper = "日めくりの数え番号：";
-                    const string version = himekuriSharper + RivisionNumber;
+                    const string version = himekuriSharper + rivisionNumber;
 
                     // 安定ソート
                     var versioner = new[]
